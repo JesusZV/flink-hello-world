@@ -1,0 +1,5 @@
+org/example/BatchJob.class
+org/example/StreamingJob$Tokenizer.class
+org/example/StreamingJob.class
+org/example/StreamingJob$1.class
+org/example/WordsGenerator.class
